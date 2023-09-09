@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    text-align: justify;
+    text-indent: 50px;
+    font-size: 40px;
+}
+
+h2{
+    color: green;
+    text-align: justify;
+    text-indent: 50px;
+    font-size: 30px;
+}
+
+i{
+    color: green;
+}
+
+p{
+    text-indent: 50px;
+    width: 400px;
+}
+
+li{
+    text-indent: 50px;
+    width: 400px;
+}
