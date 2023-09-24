@@ -1,0 +1,29 @@
+li:first-child {
+	color: red;
+}
+li:last-child {
+	color: green;
+}
+
+li:nth-child(4) {
+	color: blue;
+}
+
+p:nth-last-child(even) {
+	color: red;
+}
+
+li:only-child {
+	color: red;
+}
+
+ul {
+	margin-bottom: 10px;
+}
+
+li:empty {
+	border: 1px solid blue;
+	list-style-type: circle;
+	color: blue;
+	width: 100px;
+}
