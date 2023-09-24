@@ -1,0 +1,15 @@
+#elem h2{
+    color: red;
+}
+
+#elem1 .text{
+    color: red;
+}
+
+#elem2 p.text{
+    color: red;
+}
+
+#elem3 li.text{
+    color: red;
+}
