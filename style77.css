@@ -1,0 +1,7 @@
+#elem {
+	background-repeat: repeat-x;
+	background-image: url("bg.png");
+	width: 2000px;
+	height: 200px;
+	border: 1px solid black;
+}
