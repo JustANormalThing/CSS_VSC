@@ -1,0 +1,41 @@
+#elem1 {
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+#elem2 {
+	width: 300px;
+	height: 200px;
+	background: #f1f1f1;
+	padding:  30px 10px 25px; /* задаем отступы */
+	border: 10px solid green;  /* задаем границу */
+	box-sizing: border-box;  /* убираем расширение */
+}
+
+#elem3 {
+	width: 400px;
+	height: 100px;
+	background: red;
+	margin-bottom: 20px;
+}
+
+#elem4 {
+	width: 400px;
+	height: 100px;
+	background: blue;
+	padding: 25px; /* задаем отступы */
+	border: 40px dashed green;  /* задаем границу */
+	box-sizing: border-box;  /* убираем расширение */
+}
+
+#elem5 {
+	width: 400px;
+	height: 100px;
+	background: blue;
+	padding: 10px 20px 50px; /* задаем отступы */
+	border: 60px dashed green;  /* задаем границу */
+	box-sizing: border-box;  /* убираем расширение */
+}
