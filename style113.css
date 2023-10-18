@@ -1,0 +1,23 @@
+#elem {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 50px;
+    background-color: yellow;
+    color: white;
+    text-align: center;
+    font-size: 21px;
+    line-height: 50px;
+    border-bottom: 1px solid yellow;
+}
+
+#content {
+	margin: 60px auto;
+	width: 600px;
+	text-align: justify;
+	font: 16px Arial;
+    border: 1px solid yellow;
+    padding: 20px;
+    
+}
