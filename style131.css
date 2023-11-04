@@ -1,0 +1,19 @@
+.parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.elem{
+    width: 40px;
+    height: 20px;
+    border: 1px solid green;
+}
+.style{
+    order: -1;
+    border: 1px solid red;
+}
